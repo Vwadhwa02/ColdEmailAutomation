@@ -1,0 +1,32 @@
+Dear {re_name},
+
+I hope this message finds you well. My name is Vaibhav Wadhwa, and I am currently pursuing a Bachelor of Technology in Computer Science Engineering at Guru Gobind Singh Indraprastha University, with an expected graduation date of June 2025. I am writing to express my interest in exploring internship opportunities in your esteemed organization in the fields of Data Science, Data Engineering, or Backend Engineering.
+
+Throughout my academic journey and professional experiences, I have developed a strong foundation in Python, Java, C/C++, JavaScript, and various other programming languages and frameworks. I have honed my skills through internships and projects that have provided me with hands-on experience in machine learning model development, data analysis, and backend development.
+
+Here are a few highlights from my resume:
+
+AI/ML Intern at Nexus Info: Developed custom algorithms for data analysis, leading to a 20 percent improvement in predictive accuracy.
+Data Science Intern at Code Clause: Automated data collection tasks, enhancing processing efficiency by 30%, and optimized machine learning models for a 15% performance boost.
+Data Science Intern at Oasis Infobyte: Implemented data visualization techniques using Tableau to effectively communicate insights.
+Data Science Intern at Bharat Intern:I had improved machine learning model performance by optimizing algorithms and tuning hyperparameters
+
+In addition to my professional experience, I have completed numerous projects available on my GitHub, including:
+
+Facial Recognition for Attendance
+Speech Emotion Recognition
+Plant Classification with CNN
+Waste Classification with CNN
+Resume Parser
+Book Store API
+I am particularly drawn to {Company} because of its innovative approach and commitment to leveraging data to drive business success. I am confident that my skills in machine learning, data analysis, and backend development, along with my passion for problem-solving, would make a valuable contribution to your team.
+
+I have attached my resume for your review and would be grateful for the opportunity to discuss how my background, skills, and certifications can be of benefit to your organization. Thank you for considering my application. I look forward to the possibility of contributing to your esteemed organization.
+
+Best regards,
+
+Vaibhav Wadhwa
+LinkedIn: www.linkedin.com/in/vwadhwa02
+Phone: +91-9311114563
+Email: wadhwa.vaibhav11@gmail.com
+GitHub: https://github.com/Vwadhwa02
